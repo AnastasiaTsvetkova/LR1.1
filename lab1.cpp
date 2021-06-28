@@ -1,4 +1,4 @@
-﻿// lab1
+
 
 #include <iostream>
 #include <iomanip>
